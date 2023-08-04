@@ -1,2 +1,2 @@
-# amnesia
-Memory hierarchy simulation
+# Amnesia Simulator
+Memory hierarchy simulation: teaching and learning
